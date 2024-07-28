@@ -10,7 +10,7 @@ pi is a constant that is used in circle math `3.141592653589793...`
 
 For most people `3.14` is all they need
 
-## Radius ($$ r $$)
+## Radius ($$r$$)
 
 in several functions we see raidius or `r`
 
