@@ -4,7 +4,7 @@ $$A^2+B^2=C^2$$
 
 
 
-## What is Pi - $$\pi$$
+## What is Pi or $$\pi$$
 
 pi is a constant that is used in circle math`3.141592653589793...`
 
