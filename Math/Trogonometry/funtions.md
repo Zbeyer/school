@@ -16,6 +16,8 @@ in several functions we see raidius or `r`
 
 This means `1/2`of the circle's diameter
 
+$$1/2*D$$
+
 ## Area of a Circle
 
 $$\pi*r^2$$
