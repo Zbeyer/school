@@ -12,6 +12,10 @@ For most people `3.14` is all they need
 
 ## Radius ( $$r$$ )
 
+
+
+![C](./assets/C.jpg)
+
 in several functions we see raidius or `r`
 
 This means `1/2`of the circle's diameter
