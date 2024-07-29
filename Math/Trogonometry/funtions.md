@@ -50,3 +50,5 @@ $$\sin^2(x)$$
 And for tangent cubed:
 
 $$\tan^3(x)$$
+
+$$\sin(\theta) + \cos(\theta) = 1$$
