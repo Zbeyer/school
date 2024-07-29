@@ -61,6 +61,10 @@ $$\cos(\theta) = adjacent/hypotinuse$$
 $$\tan(\theta) = opposite/adjacent$$
 
 
+| Sin  |  **S**ine = **O**pposite / **H**ypotenuse  |
+| Cos  | **C**osine = **A**djacent / **H**ypotenuse |
+| Tan  | **T**angent = **O**pposite / **A**djacent  |
+
 ```
 // ZB-I should check this
 ```
