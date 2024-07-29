@@ -30,3 +30,39 @@ $$\pi*r^2$$
 
 $$2*\pi*r$$
 
+The LaTeX commands for the basic trigonometric functions are as follows:
+
+- Sine: $$\sin(x)$$
+- Cosine: $$\cos(x)$$
+- Tangent: $$\tan(x)$$
+- Cosecant: $$\csc(x)$$
+- Secant: $$\sec(x)$$
+- Cotangent: $$\cot(x)$$
+
+For the inverse trigonometric functions, you can use:
+
+- Arcsine: $$\arcsin(x)$$
+- Arccosine: $$\arccos(x)$$
+- Arctangent: $$\arctan(x)$$
+
+$$\sin^2(x)$$
+
+And for tangent cubed:
+
+$$\tan^3(x)$$
+
+Pnumonic:
+**SOHCAHTOA**
+
+$$\sin(\theta) = opposite/hypotinuse$$
+
+$$\cos(\theta) = adjacent/hypotinuse$$
+
+$$\tan(\theta) = opposite/adjacent$$
+
+
+```
+// ZB-I should check this
+```
+
+$$\sin(\theta)^2 + \cos(\theta)^2 = 1$$
