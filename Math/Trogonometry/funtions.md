@@ -66,6 +66,8 @@ $$\tan(\theta) = opposite/adjacent$$
 | Cos  | **C**osine = **A**djacent / **H**ypotenuse |
 | Tan  | **T**angent = **O**pposite / **A**djacent  |
 
+![Frame 1](./assets/Frame%201.jpg)
+
 ```
 // ZB-I should check this
 ```
