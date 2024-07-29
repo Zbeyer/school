@@ -12,7 +12,7 @@ Images and sources should be CC0, i.e. public domain
 
 ## Git Repository
 
-This repository relies on Git, anyone can be made to be a contributor and each commit is a snapshot, therefore a bad actor cannot detroy the repository. The worst someone can do is vandalize a snapshot.
+This repository relies on Git, anyone can be made to be a contributor and each commit is a snapshot, therefore a bad actor cannot destroy the repository. The worst someone can do is vandalize a snapshot.
 
 
 
