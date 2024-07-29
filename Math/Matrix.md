@@ -7,35 +7,35 @@ a & b & c
 
 
 
-$\begin{pmatrix}
+$$\begin{pmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{pmatrix}$
+\end{pmatrix}$$
 
 
 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{bmatrix}$
+\end{bmatrix}$$
 
 
 
-$\begin{Bmatrix}
+$$\begin{Bmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{Bmatrix}$
+\end{Bmatrix}$$
 
 
 
-$\begin{vmatrix}
+$$\begin{vmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{vmatrix}$
+\end{vmatrix}$$
 
 
 
-$\begin{Vmatrix}
+$$\begin{Vmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{Vmatrix}$
+\end{Vmatrix}$$
