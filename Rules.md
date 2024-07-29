@@ -19,3 +19,7 @@ This repository relies on Git, anyone can be made to be a contributor and each c
 ## Collaborators
 
 To be added you need to make a GitHub account and add ZBeyer as a friend. Then you can be added to the repository and use the GitHub app. I do a lot of editing in `.md` or markdownn. But `.txt` works fine too.
+
+
+
+![CleanShot 2024-07-28 at 04.10.56](./assets/CleanShot%202024-07-28%20at%2004.10.56.jpg)
