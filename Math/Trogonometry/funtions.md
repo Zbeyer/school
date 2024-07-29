@@ -51,4 +51,9 @@ And for tangent cubed:
 
 $$\tan^3(x)$$
 
-$$\sin(\theta) + \cos(\theta) = 1$$
+
+```
+// ZB-I should check this
+```
+
+$$\sin(\theta)^2 + \cos(\theta)^2 = 1$$
