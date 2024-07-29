@@ -1,8 +1,6 @@
-## The Pathagorean Theorem
+# The Pathagorean Theorem
 
 $$A^2+B^2=C^2$$
-
-
 
 ## What is Pi or $$\pi$$
 
@@ -14,13 +12,15 @@ For most people `3.14` is all they need
 
 
 
-![C](./assets/C.jpg)
+![Frame 2](./assets/Frame%202.jpg)
 
 in several functions we see raidius or `r`
 
 This means `1/2`of the circle's diameter
 
 $$1/2*D$$
+
+![Frame 3](./assets/Frame%203.jpg)
 
 ## Area of a Circle
 
@@ -66,3 +66,14 @@ $$\tan(\theta) = opposite/adjacent$$
 ```
 
 $$\sin(\theta)^2 + \cos(\theta)^2 = 1$$
+
+
+
+## Circles & Triangles
+
+![Frame 4](./assets/Frame%204.jpg)
+
+![Frame 5](./assets/Frame%205.jpg)
+
+![Frame 6](./assets/Frame%206.jpg)
+
