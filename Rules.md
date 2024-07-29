@@ -18,7 +18,7 @@ This repository relies on Git, anyone can be made to be a contributor and each c
 
 ## Collaborators
 
-To be added you need to make a GitHub account and add ZBeyer as a friend. Then you can be added to the repository and use the GitHub app. I do a lot of editing in `.md` or markdownn. But `.txt` works fine too.
+To be added you need to make a GitHub account and add ZBeyer as a friend. Then you can be added to the repository and use the GitHub app. I do a lot of editing in `.md` or markdown. But `.txt` works fine too.
 
 
 
