@@ -55,7 +55,9 @@ Pnumonic:
 **SOHCAHTOA**
 
 $$\sin(\theta) = opposite/hypotinuse$$
+
 $$\cos(\theta) = adjacent/hypotinuse$$
+
 $$\tan(\theta) = opposite/adjacent$$
 
 
