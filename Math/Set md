@@ -1,0 +1,39 @@
+## Set
+$$
+\documentclass{article}
+\usepackage{amsmath, amssymb}
+
+\title{Fundamentals of Set Theory}
+\author{Author Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Set theory is the mathematical science of sets, which are collections of objects. In this document, we will cover some of the fundamental concepts of set theory.
+
+\section{Basic Concepts}
+\subsection{Sets and Elements}
+A \textbf{set} is a well-defined collection of distinct objects, considered as an object in its own right. The objects in a set are called \textbf{elements}.
+
+\subsection{Notation}
+The notation $a \in A$ denotes that $a$ is an element of the set $A$. If $a$ is not an element of $A$, we write $a \notin A$.
+
+\section{Operations on Sets}
+\subsection{Union}
+The \textbf{union} of two sets $A$ and $B$, denoted by $A \cup B$, is the set of all elements that are in $A$, in $B$, or in both.
+
+\subsection{Intersection}
+The \textbf{intersection} of two sets $A$ and $B$, denoted by $A \cap B$, is the set of all elements that are in both $A$ and $B$.
+
+\subsection{Difference}
+The \textbf{difference} between two sets $A$ and $B$, denoted by $A - B$, is the set of all elements that are in $A$ but not in $B$.
+
+\section{Conclusion}
+This document has introduced some of the basic concepts and operations of set theory. Set theory is a foundational discipline in mathematics with wide applications in various fields.
+
+\end{document}
+$$
+
