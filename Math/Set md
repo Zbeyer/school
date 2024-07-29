@@ -1,6 +1,5 @@
 ## Set
-$$
-\documentclass{article}
+$$\documentclass{article}
 \usepackage{amsmath, amssymb}
 
 \title{Fundamentals of Set Theory}
@@ -34,6 +33,4 @@ The \textbf{difference} between two sets $A$ and $B$, denoted by $A - B$, is the
 \section{Conclusion}
 This document has introduced some of the basic concepts and operations of set theory. Set theory is a foundational discipline in mathematics with wide applications in various fields.
 
-\end{document}
-$$
-
+\end{document}$$
