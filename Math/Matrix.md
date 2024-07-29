@@ -1,9 +1,9 @@
 # [Matrices](https://www.overleaf.com/learn/latex/Matrices)
 
-$\begin{matrix}
+$$\begin{matrix}
 1 & 2 & 3\\
 a & b & c
-\end{matrix}$
+\end{matrix}$$
 
 
 
