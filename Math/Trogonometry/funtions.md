@@ -51,6 +51,13 @@ And for tangent cubed:
 
 $$\tan^3(x)$$
 
+Pnumonic:
+**SOHCAHTOA**
+
+$$\sin(\theta) = opposite/hypotinuse$$
+$$\cos(\theta) = adjacent/hypotinuse$$
+$$\tan(\theta) = opposite/adjacent$$
+
 
 ```
 // ZB-I should check this
