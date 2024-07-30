@@ -63,3 +63,5 @@ Write as though you were adressing a version of yourself with significantly redu
 Albert Einstein
 
 Tags: attributed-no-source, simplicity, understand
+
+I believe in an understandable God of rules and concequences, therefore I belive in a understandable universe of rules and consequence.
