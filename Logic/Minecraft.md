@@ -1,7 +1,5 @@
 # ![token_1](./assets/token_1.png)Minecraft
 
-
-
 I play modded Minecraft on `java` so my controls may be different.
 
 
@@ -14,7 +12,7 @@ I play modded Minecraft on `java` so my controls may be different.
 
 Means I am running Minecraft `1.20.1`
 
-and I am loading tne forge library `47.2.20`
+and I am loading the forge library `47.2.20`
 
 ![1 Version](./assets/1%20Version.jpg)
 
