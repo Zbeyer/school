@@ -47,7 +47,7 @@ Z: `45`- north / south
 
 
 
--   Every block has a light level between `0` and `15.
+-   Every block has a light level between `0` and `15`.
 -   ` 0` is dark, `15` is the same as bright sunlight.
 -   A torch has a brightness of `14`, the other light sources described above have a brightness of 15.
 -   Each block you travel away from the light source, the light level drops by `1`.
