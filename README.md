@@ -53,5 +53,7 @@ When the student is isolated, do they understand?
 
 ----
 
-## Opinion
+## Opinions
 All complex systems are built on a web of simple rules.
+
+Write as though you were adressing a version of yourself with significantly redused mental fortitude i.e. can a third grader understand?
