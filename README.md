@@ -50,3 +50,8 @@ When the student engages with others, can they share the information?
 ### Solitary
 
 When the student is isolated, do they understand?
+
+----
+
+## Opinion
+All complex systems are built on a web of simple rules.
