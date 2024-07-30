@@ -68,7 +68,11 @@ A Minecraft chunk is a 16×16 portion of the world, divided into 16-block tall s
 ## TBD
 
 -   Redstotone logic gates
+
+## [Redstone circuits/Logic](https://minecraft.fandom.com/wiki/Redstone_circuits/Logic)
+
 -   Computer Science Fundamentals
+
 -   3D Graphics
 -   Creative Building
 
