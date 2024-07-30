@@ -57,3 +57,7 @@ When the student is isolated, do they understand?
 All complex systems are built on a web of simple rules.
 
 Write as though you were adressing a version of yourself with significantly redused mental fortitude i.e. can a third grader understand?
+
+> If you can't explain it to a six year old, you don't understand it yourself.
+Albert Einstein
+Tags: attributed-no-source, simplicity, understand
