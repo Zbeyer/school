@@ -7,6 +7,8 @@
 -   Say a thing, then say it again adding details
     -   The goal is to let the student know the overview of information well and only go into details as necessary
 
+> Always look for more ways to engage.
+
 ## Learning Theory
 
 Education theory suggests that different people absorb information in different ways. 
@@ -48,6 +50,3 @@ When the student engages with others, can they share the information?
 ### Solitary
 
 When the student is isolated, do they understand?
-
-
-
