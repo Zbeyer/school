@@ -32,11 +32,11 @@ and I am loading tne forge library `47.2.20`
 
 X, Y, Z Coordinate data means my character can be found at
 
-X:  `4101`- east /west
+X:  `4101`- East / West
 
-Y: `65` - up / down
+Y: `65` - Up / Down
 
-Z: `45`- north / south
+Z: `45`- North / South
 
 ![8 Position](./assets/8%20Position.jpg)
 
