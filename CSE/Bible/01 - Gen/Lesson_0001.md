@@ -6,4 +6,4 @@
 
 -   God created the heavens and the earth
 -   God created light and divided it from darkness
--   called the light Day, and the darkness He called Night
+-   God called the light Day, and the darkness He called Night

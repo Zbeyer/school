@@ -8,4 +8,3 @@
 -   God gathered the waters and called them Seas
 -   God created grass, herbs, and trees
 
-##### 
