@@ -1,6 +1,6 @@
 # Terms
 
-## Axioms
+## Axiom
 > That which one assumes to be true.
 
    - An axiom is often considered self-evident or universally accepted.
