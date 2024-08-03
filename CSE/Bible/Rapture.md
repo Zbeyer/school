@@ -11,9 +11,9 @@ The word you are looking for isἁρπάζω - harpazó.
 > Strong's Concordance
 >
 > harpazó: to seize, catch up, snatch away
-> 
+>
 > Original Word: ἁρπάζω
-> 
+>
 > Part of Speech: Verb
 >
 > Transliteration: harpazó
@@ -21,11 +21,11 @@ The word you are looking for isἁρπάζω - harpazó.
 > Phonetic Spelling: (har-pad'-zo)
 >
 > Definition: to seize, catch up, snatch away
-> 
+>
 > Usage: I seize, snatch, obtain by robbery.
-> 
+>
 > HELPS Word-studies
-> 
+>
 > 726 harpázō – properly, seize by force; snatch up, suddenly and decisively – like someone seizing bounty (spoil, a prize); to take by an open display of force (i.e. not covertly or secretly).
 
 ----
