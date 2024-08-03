@@ -6,6 +6,14 @@ The King James Version (KJV) is loosely divideded as follows:
 
 ## Old Testament
 ### 5 books of Moses
+
+- Genesis
+- Exodus
+- Levitics
+- Numbers
+- Deuteronemy
+
+
 ### Early Israel
 ### 2nd Temple history
 ### Poetry Books
