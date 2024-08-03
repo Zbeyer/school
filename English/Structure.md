@@ -69,8 +69,29 @@ The King James Version (KJV) is loosely divideded as follows:
 - John
 - Romans
 
-### Letters
+### Letters to Churches
 
-1 & 2 Corin
+- 1 & 2 Corinthians
+- Galatians
+- Ephesians
+- Philipeans
+- Colossians (and Leodicea)
+- 1 & 2 Thessolonilonians
+
+### Letters to Individuals
+
+- 1 & 2 Timmothy
+- Titus
+- Phylemon
+
+### Non-Pauline Letters
+
+- Hebrews
+- James
+- 1 & 2 Peter
+- 1, 2, & 3 John
+- Jude
 
 ### Revelation
+
+- Revelation
