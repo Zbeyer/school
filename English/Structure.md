@@ -15,6 +15,13 @@ The King James Version (KJV) is loosely divideded as follows:
 
 
 ### Early Israel
+- Joshua
+- Judges
+- Ruth
+- 1 & 2 Samuel
+- 1 & 2 Kings
+- 1 & 2 Chronicles
+
 ### 2nd Temple history
 ### Poetry Books
 ### Major Prophets (long)
