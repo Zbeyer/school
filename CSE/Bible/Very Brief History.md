@@ -1,8 +1,3 @@
----
-created: 2024-08-03T01:51:01-06:00
-modified: 2024-08-03T01:55:30-06:00
----
-
 # Very Brief History
 
 - God made everything
