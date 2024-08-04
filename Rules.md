@@ -10,6 +10,14 @@ Images and sources should be CC0, i.e. public domain
 
 This repository relies on Git, anyone can be made to be a contributor and each commit is a snapshot, therefore a bad actor cannot destroy the repository. The worst someone can do is vandalize a snapshot.
 
+### Git explained in 30 seconds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3LwlSlo5cw?si=_rLp3O4sXk7b5TM_&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
 ## Collaborators
 
 To be added you need to make a GitHub account and add ZBeyer as a friend. Then you can be added to the repository and use the GitHub app. I do a lot of editing in `.md` or markdown. But `.txt` works fine too.
