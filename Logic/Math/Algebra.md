@@ -18,4 +18,4 @@ For more complex expressions, such as fractions, square roots, and summations, L
 - Square roots: `\$\\sqrt{x}\$` renders as \(\sqrt{x}\)
 - Summations: `\$\\sum_{i=1}^{n} i^2\$` renders as \(\sum_{i=1}^{n} i^2\)
 
-If you're looking to dive deeper into LaTeX for algebra, Overleaf has a comprehensive guide¹, and there are online LaTeX equation editors² that can help you visualize the output as you write. Additionally, you can find a list of common algebraic operators³ and a tutorial on math and equations⁴ to expand your LaTeX skills.
+If you're looking to dive deeper into LaTeX for algebra, Overleaf has a comprehensive guide,  and there are online LaTeX equation editors that can help you visualize the output as you write.
