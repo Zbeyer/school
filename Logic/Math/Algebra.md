@@ -7,10 +7,13 @@ x^n + y^n = z^n
 $$
 
 Here are some common algebraic operators and how to write them in LaTeX:
-- Addition: `$$a + b$$` renders as \(a + b\)
+- Addition: `$$a + b$$` renders as 
+
+$$a + b$$
+
 - Multiplication (dot): `$$a \cdot b$$` renders as
 
-$$a \cdot b$
+$$a \cdot b$$
 
 - Multiplication (cross): `$$a \times b$$` renders As
 
