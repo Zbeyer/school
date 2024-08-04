@@ -19,7 +19,7 @@ $$a \cdot b$$
 
 $$a \times b$$
 
-Complex expressions such as fractions, square roots, and summations, LaTeX provides a additional commands:
+Complex expressions such as fractions, square roots, and summations, LaTeX provides additional commands:
 - Fractions: `$$\\frac{a}{b}$$` renders as 
 
 $$(\frac{a}{b}\)$$
