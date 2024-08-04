@@ -20,6 +20,8 @@ $$a \cdot b$$
 $$a \times b$$
 
 Complex expressions such as fractions, square roots, and summations, LaTeX provides a additional commands:
-- Fractions: `$$\\frac{a}{b}$$` renders as $$(\frac{a}{b}\)$$
+- Fractions: `$$\\frac{a}{b}$$` renders as 
+
+$$(\frac{a}{b}\)$$
 
 If you're looking to dive deeper into LaTeX for algebra, Overleaf has a comprehensive guide,
