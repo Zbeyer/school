@@ -4,7 +4,7 @@
 
 That is correct, the word, "rapture," is latin and the New Testament was written in greek. 
 
-The word you are looking for isἁρπάζω - harpazó.
+The word you are looking for is ἁρπάζω - harpazó.
 
 ----
 
