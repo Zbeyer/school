@@ -1,6 +1,6 @@
 # Algebra & Latex
 
-To write inline algebraic expressions, you can use the dollar signs `\$...\$`. 
+To write inline algebraic expressions, you can use the dollar signs `$$...$$`. 
 
 $$
 x^n + y^n = z^n
@@ -8,9 +8,13 @@ $$
 
 Here are some common algebraic operators and how to write them in LaTeX:
 - Addition: `$$a + b$$` renders as \(a + b\)
-- Multiplication (dot): `\$a \cdot b\$` renders as \(a \cdot b\)
-- Multiplication (cross): `\$a \times b\$` renders as \(a \times b\)
-- Division (fraction): `\$\\frac{a}{b}\$` renders as \(\frac{a}{b}\)
+- Multiplication (dot): `$$a \cdot b$$` renders as
+
+$$a \cdot b$
+
+- Multiplication (cross): `$$a \times b$$` renders As
+
+$$a \times b$$
 
 For more complex expressions, such as fractions, square roots, and summations, LaTeX provides a variety of commands:
 - Fractions: `\$\\frac{a}{b}\$` renders as \(\frac{a}{b}\)
