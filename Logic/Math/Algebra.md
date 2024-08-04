@@ -1,6 +1,6 @@
 # Algebra
 
-To write inline algebraic expressions, you can use the dollar signs `\$...\$`. For example, the expression \$a^2 + b^2 = c^2\$ will render as \(a^2 + b^2 = c^2\).
+To write inline algebraic expressions, you can use the dollar signs `\$...\$`. 
 
 For displayed equations, which are centered and on their own line, you can use the double dollar signs `$$...$$` or the `\\[...\\]` delimiters. For instance, $$x^n + y^n = z^n$$ will appear as:
 $$
