@@ -1,4 +1,4 @@
-# Algebra
+# Algebra & Latex
 
 To write inline algebraic expressions, you can use the dollar signs `\$...\$`. 
 
