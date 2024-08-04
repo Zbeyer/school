@@ -15,7 +15,7 @@ $$a + b$$
 
 $$a \cdot b$$
 
-- Multiplication (cross): `$$a \times b$$` renders As
+- Multiplication (cross): `$$a \times b$$` renders as
 
 $$a \times b$$
 
