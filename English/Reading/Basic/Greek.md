@@ -1,5 +1,4 @@
 # Greek
-
 $$
 \begin{align*}
 \text{Α, α (alpha)} & : a \text{ as in 'father'} \\
