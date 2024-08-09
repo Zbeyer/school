@@ -1,0 +1,1 @@
+# [Full Text of The Federalist Papers](https://guides.loc.gov/federalist-papers/full-text)
