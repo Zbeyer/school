@@ -74,6 +74,6 @@ I believe in an understandable God of rules and consequences; therefore, I belie
 
 Cut things down: if you have a page, can you make it a paragraph? You want information to stick and that means making it easier to digest.
 
-Follow the [Blinkist](https://www.blinkist.com/en) model
+## Follow the [Blinkist](https://www.blinkist.com/en) model
 
 -   A book or paper has maybe 10-15 minutes of usable information. Summarize what you read.
