@@ -35,7 +35,7 @@ Use speech to communicate information.
 
 Information should be logically deduduced
 
--   Is it coherent: does it make sense
+-   Is it coherent: does it make sense?
 -   Is it cogent: does it match my observed reality?
 -   Is it relevant: can I experience it?
 
