@@ -1,0 +1,22 @@
+In the United States, the typical age range for each grade level is generally as follows:
+
+-   Pre-School
+    -   Pre-K2: 2 years old
+    -   Pre-K3: 3 years old
+    -   Pre-K4: 4 years old
+-   Elementary School
+    -   Kindergarten: 5-6 years old
+    -   1st Grade: 6-7 years old
+    -   2nd Grade: 7-8 years old
+    -   3rd Grade: 8-9 years old
+    -   4th Grade: 9-10 years old
+    -   5th Grade: 10-11 years old
+-   Middle School
+    -   6th Grade: 11-12 years old
+    -   7th Grade: 12-13 years old
+    -   8th Grade: 13-14 years old
+-   High School
+    -   9th Grade (Freshman): 14-15 years old
+    -   10th Grade (Sophomore): 15-16 years old
+    -   11th Grade (Junior): 16-17 years old
+    -   12th Grade (Senior): 17-18 years old
