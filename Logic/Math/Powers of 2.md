@@ -33,6 +33,8 @@ A hexedecimal (base 16 number system)  uses two values to reach the `255` bit ra
 
 ## Some Powers of Two
 
+*Committing `0` - `10` to memory is a good start*
+
 $$2^0 = 1$$
 
 $$2^1 = 2$$
