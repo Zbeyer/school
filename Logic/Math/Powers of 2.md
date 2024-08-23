@@ -1,7 +1,11 @@
 # Powers of 2
 Let's explore the world of **powers of 2**. 
 
-*Powers of two when used as a base 2 numbering system is also called binar*
+
+
+Powers of two when used as a base 2 numbering system is also called **binary**.
+
+
 
 1. **Positive Powers of Two**:
    - These include values like $$2^1 = 2$$, $$2^2 = 4$$, $$2^3 = 8$$, and so on.
