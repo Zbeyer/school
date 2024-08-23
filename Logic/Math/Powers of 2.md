@@ -100,3 +100,14 @@ $$2^{31} = 2147483648$$
 $$2^{32} = 4294967296$$
 
 ---
+
+## More Computer Science
+
+```js
+let maxSafeInteger = Number.MAX_SAFE_INTEGER;
+console.log(maxSafeInteger); // Outputs: 9007199254740991
+```
+
+This limit is due to the way numbers are represented in JavaScript, which uses double-precision floating-point format. This format allocates 52 bits to represent the mantissa, allowing it to safely represent integers up to $$2^53−1$$
+
+For numbers beyond this range, **JavaScript** provides the `BigInt` type, which can represent integers of arbitrary size.
