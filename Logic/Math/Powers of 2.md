@@ -27,7 +27,7 @@ In computer science one bit is always reserved for sign ( + / - ). Unless it is 
 
 In computing, a byte is most commonly made up of 8 bits
 
-`1111 1111` =  255` so `1 byte is `0 - 255`
+`1111 1111` =  `255` so `1 byte` is `0 - 255`
 
 ## Some Powers of Two
 
