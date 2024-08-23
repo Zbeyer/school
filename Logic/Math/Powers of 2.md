@@ -29,6 +29,8 @@ In computing, a byte is most commonly made up of 8 bits
 
 `1111 1111` =  `255` so `1 byte`  is `0 - 255`
 
+A hexedecimal (base 16 number system)  uses two values to reach the `255` bit range (`0xFF` = `255` = `11111111`).
+
 ## Some Powers of Two
 
 $$2^0 = 1$$
