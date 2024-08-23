@@ -1,5 +1,6 @@
-_Early Geometry
-Certainly! As your child progresses in geometry, they'll build essential skills. Here's a summary of what they should learn:
+# Early Geometry
+
+ As your child progresses in geometry, they'll build essential skills. Here's a summary of what they should learn:
 
 1. **Preschoolers and Kindergartners (Ages 3–4 years)**:
    - Recognize shapes in the real world.
