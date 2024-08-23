@@ -19,11 +19,15 @@ Powers of two when used as a base 2 numbering system is also called **binary**.
 
 
 
+## A Little Computer Science
+
 In computer science one bit is always reserved for sign ( + / - ). Unless it is marked as `unsigned`. Ergo, `256` may be the 8th power of two but an 8 bit integer has a limit of `2^8-1= 127`. C integers have a positive limit of`32767`.
 
 >   -2^(n - 1) to 2^(n - 1) - 1. As you can see, the upper bound gets a -1 that the lower bound doesn't. — [Stack Overflow](https://stackoverflow.com/questions/18558271/why-the-range-of-int-is-32768-to-32767)
 
 
+
+## Some Powers of Two
 
 $$2^0 = 1$$
 
