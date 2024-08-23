@@ -23,7 +23,9 @@ In each case the value of the current number is the sum of the two previous valu
 
 Romans Loved the `3:5` ratio, for example.
 
+![spiral](./assets/spiral.jpg)
 
+## Famous Example: Da Vinci Vitruvian Man
 
-
+![Da_Vinci_Vitruvian Man](./assets/Da_Vinci_Vitruvian%20Man.jpg)
 
