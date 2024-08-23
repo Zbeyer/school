@@ -12,6 +12,10 @@ Let's explore the world of **powers of 2**.
 
 
 
+In computer science one bit is always reserved for sing ( + / -) unless it is marked as `unsigned`. Ergo, `256` may be the 8th power of two but a 8 bit integer has a limit of `255`. 
+
+
+
 $$2^0 = 1$$
 
 $$2^1 = 2$$
