@@ -25,7 +25,7 @@ In computer science one bit is always reserved for sign ( + / - ). Unless it is 
 
 >   -2^(n - 1) to 2^(n - 1) - 1. As you can see, the upper bound gets a -1 that the lower bound doesn't. — [Stack Overflow](https://stackoverflow.com/questions/18558271/why-the-range-of-int-is-32768-to-32767)
 
-
+In computing, a byte is most commonly made up of 8 bits
 
 ## Some Powers of Two
 
