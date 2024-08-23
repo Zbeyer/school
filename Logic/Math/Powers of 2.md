@@ -111,3 +111,12 @@ console.log(maxSafeInteger); // Outputs: 9007199254740991
 This limit is due to the way numbers are represented in JavaScript, which uses double-precision floating-point format. This format allocates 52 bits to represent the mantissa, allowing it to safely represent integers up to $$2^{53−1}$$
 
 For numbers beyond this range, **JavaScript** provides the `BigInt` type, which can represent integers of arbitrary size.
+
+----
+
+In **Godot Engine**, the limit for an `integer` is based on a signed 64-bit integer type. This means it can take values from 
+$$−2^{63}$$
+ to 
+ $$2^{63−1}$$
+
+Which is from `-9223372036854775808` to `9223372036854775807`.
