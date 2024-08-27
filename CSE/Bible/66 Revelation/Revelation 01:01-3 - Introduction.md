@@ -1,4 +1,4 @@
-# Revelation 01:01-3 - Introduction 
+# 01:01-3 - Introduction 
 
 > Revelation 1:1-3
 > 
