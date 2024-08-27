@@ -61,3 +61,10 @@ When the array is rendered you need to move the EVEN tiles 50% up.
 ![3](./assets/3.jpg)
 
 ![4](./assets/4.jpg)
+
+## Fonts
+
+Verdana (sans-serif) **bold**
+
+- 14px Body
+- 36px Header
