@@ -1,4 +1,4 @@
-# 01:04-8 - Seven Lamp Stands
+01:04-8 - Seven Lampstands
 
 > Revelation 1:4-8
 >
