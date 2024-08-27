@@ -28,7 +28,8 @@ IMO: A good sermon employs all three: present the gospel, encourage / exhort Chr
 ## Don't add, don't take away.
 
 > For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: and if anyone takes away from the words of the book of this prophecy, God shall take away his part from the Book of Life, from the holy city, and *from* the things which are written in this book. — Revelation 22:18-19
-The Pharisees taught as doctrines the commandments of men (Matthew 15:9) ~they added to God's word~.
+
+The Pharisees taught as doctrines the commandments of men (Matthew 15:9) ~they added to God's word.
 The sadducees taught there were no miracles, no resurrection. ~They took away from God's word~.
 
 ## Midrash
