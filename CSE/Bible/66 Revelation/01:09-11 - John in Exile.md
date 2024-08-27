@@ -1,4 +1,4 @@
-# 1:09-11 - John in Exile
+# 01:09-11 - John in Exile
 
 > Revelation 1:9-11
 >
