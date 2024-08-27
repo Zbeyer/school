@@ -6,4 +6,4 @@
 
 -   The Revelation was given to John, but it is of Messiah.
 -   The use of the word shortly means that when these things start to happen they will happen quickly, not a promise that the things would happen soon after hearing them.
--   There is a conditional blessing prommised to them that read, hear, and keep the things written.
+-   There is a conditional blessing prommised to them that read, hear, and keep the things written.  Keep is likely a command to watch.
