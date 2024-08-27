@@ -7,7 +7,7 @@
 -   The seven churches in Asia are a picture of the completed church age.
 -   God reminds us that Time means nothing to an eternal being like Him.
 -   The seven spirits of His throne are likely a reference to the attributes of the Holy Spirit in Isaiah 11:2
--   Yeshuah Messiah is given titles like, "faithful witness" because we can trust His words, "first begotten of the dead," because He was the first of the resurrection, and " prince of the kings of the earth," because all authority is given from Him.
+-   Yeshuah Messiah is given titles like, "faithful witness" because we can trust His words, "first begotten of the dead," because He was the first of the resurrection, and "prince of the kings of the earth," because all authority is given from Him.
 -   We are reminded that He loves us.
 -   We are reminded He washed us from our sins in His own blood, 
 -   We are reminded that He has made us a royal priesthood to honor God the Father.
