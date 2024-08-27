@@ -46,7 +46,7 @@ The main game takes place in the ROYGBIV spectrm or just, "The Spectrum." Player
 
 Grids and Tiles: A grid is a 2D array of tiles (`grid[x][y]`) tiles need to know more interesting things like what is on it?
 
-![1](/Users/zacharybeyer/Documents/GitHub/school/Social/assets/1.jpg)
+![1](./assets/1.jpg)
 
 
 
@@ -56,11 +56,11 @@ When the array is rendered you need to move the EVEN tiles 50% up.
 
 
 
-![2](/Users/zacharybeyer/Documents/GitHub/school/Social/assets/2.jpg)
+![2](./assets/2.jpg)
 
-![3](/Users/zacharybeyer/Documents/GitHub/school/Social/assets/3.jpg)
+![3](./assets/3.jpg)
 
-![4](/Users/zacharybeyer/Documents/GitHub/school/Social/assets/4.jpg)
+![4](./assets/4.jpg)
 
 ## Fonts
 
