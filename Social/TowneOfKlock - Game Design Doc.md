@@ -50,6 +50,10 @@ Grids and Tiles: A grid is a 2D array of tiles (`grid[x][y]`) tiles need to know
 
 
 
+![5](./assets/5.jpg)
+
+
+
 ## Art
 
 When the array is rendered you need to move the EVEN tiles 50% up.
